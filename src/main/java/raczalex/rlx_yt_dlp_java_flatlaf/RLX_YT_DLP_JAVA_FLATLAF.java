@@ -7,7 +7,7 @@ import com.formdev.flatlaf.FlatLightLaf;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 public class RLX_YT_DLP_JAVA_FLATLAF {
 

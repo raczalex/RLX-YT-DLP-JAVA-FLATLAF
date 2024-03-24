@@ -47,7 +47,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 public class DownloaderController {
     private DownloaderModel downloaderModel;

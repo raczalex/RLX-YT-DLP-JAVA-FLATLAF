@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package view;
 
 import java.awt.Color;
@@ -16,13 +12,9 @@ import model.DownloaderModel;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 public class DownloadBinView extends javax.swing.JFrame {
-
-    /**
-     * Creates new form DownloadBinnView
-     */
     private JLabel title_jlabel;
     private JProgressBar progressBar;
     private JLabel progress_jlabel;

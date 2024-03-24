@@ -11,13 +11,9 @@ import model.DownloaderModel;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 public class DownloaderVideoInfoView extends javax.swing.JFrame {
-
-    /**
-     * Creates new form DownloaderVideoInfoView
-     */
     private DownloaderModel downloaderModel;
     
     public DownloaderVideoInfoView(DownloaderModel downloaderModel) {

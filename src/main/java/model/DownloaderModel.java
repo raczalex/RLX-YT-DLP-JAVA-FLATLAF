@@ -682,14 +682,11 @@ public class DownloaderModel {
         buildCommand.add(getYt_dlp_full_path());
         buildCommand.add(videoUrl);
         buildCommand.add("--hls-prefer-native");
-        // buildCommand.add("--default-search \"ytsearch\"");
         buildCommand.add("--newline");
         buildCommand.add("--ignore-errors");
         buildCommand.add("--ignore-config");
         buildCommand.add("--no-simulate");
         buildCommand.add("--progress");
-        // buildCommand.add("--default-search"); // Include --default-search once with its argument separated
-        // buildCommand.add("ytsearch"); 
         buildCommand.add("--progress-template");
         buildCommand.add("%(progress.status)s %(progress._total_bytes_str)s %(progress._percent_str)s %(progress._speed_str)s %(progress._eta_str)s");
         buildCommand.add("--dump-json");

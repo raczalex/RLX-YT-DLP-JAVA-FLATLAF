@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package runnable;
 
 import view.DownloaderView;
@@ -13,7 +9,7 @@ import utils.Pair;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 public class DownloadBinStartRunnable implements Runnable {
     private DownloadBinView downloadBinView;

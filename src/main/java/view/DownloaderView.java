@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author xd
+ * @author raczalex
  */
 
 public class DownloaderView extends javax.swing.JFrame {
